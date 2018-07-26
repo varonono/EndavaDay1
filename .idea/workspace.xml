@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f0eeeff3-e26d-4093-9de3-945e7cc7c391" name="Default Changelist" comment="" />
+    <list default="true" id="f0eeeff3-e26d-4093-9de3-945e7cc7c391" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="untitled/css/" />
     <ignored path="untitled/js/" />
     <ignored path="./" />
@@ -18,36 +20,42 @@
     <session id="-1424751028">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.11" value="2" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="css" value="1" />
+          <entry key="css" value="2" />
           <entry key="html" value="2" />
           <entry key="iml" value="1" />
-          <entry key="js" value="2" />
+          <entry key="js" value="8" />
+          <entry key="map" value="1" />
+          <entry key="png" value="3" />
           <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="Scratch" value="6" />
+          <entry key="Image" value="1" />
+          <entry key="JavaScript" value="1" />
+          <entry key="Scratch" value="14" />
+          <entry key="SourceMap" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="207" />
-          <entry key="html" value="957" />
+          <entry key="css" value="556" />
+          <entry key="html" value="1177" />
           <entry key="js" value="378" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Scratch" value="1542" />
+          <entry key="Scratch" value="2111" />
         </counts>
       </usages-collector>
     </session>
@@ -56,15 +64,14 @@
     <favorites_list name="WebPractice" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/EndavaDay1/scratch.html">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/untitled/untitled.iml">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/classie.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -86,6 +93,8 @@
         <option value="$APPLICATION_CONFIG_DIR$/scratches/script.js" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/stil.css" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.html" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/EndavaDay1/scratch.html" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/EndavaDay1/stil.css" />
       </list>
     </option>
   </component>
@@ -96,8 +105,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="141" />
-    <option name="y" value="151" />
+    <option name="x" value="140" />
+    <option name="y" value="150" />
     <option name="width" value="1750" />
     <option name="height" value="970" />
   </component>
@@ -109,6 +118,7 @@
     <panes>
       <pane id="AndroidView" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -131,13 +141,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1532524178662" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1532598620590" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="HTML" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$USER_HOME$/Downloads/bootstrap3.jar" />
@@ -172,25 +181,27 @@
       <option name="presentableId" value="Default" />
       <updated>1532509252596</updated>
       <workItem from="1532509264340" duration="11095000" />
-      <workItem from="1532523664702" duration="436000" />
+      <workItem from="1532523664702" duration="1034000" />
+      <workItem from="1532585094628" duration="6871000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11531000" />
+    <option name="totallyTimeSpent" value="19000000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" sideWeight="0.50070924" side_tool="true" weight="0.1852349" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.4992908" visible="true" weight="0.1852349" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.4992908" visible="true" weight="0.18791947" />
       <window_info id="Structure" order="6" sideWeight="0.50070924" side_tool="true" weight="0.1852349" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="0" visible="true" weight="0.3248227" />
-      <window_info anchor="bottom" id="Terminal" order="1" weight="0.32907802" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.3248227" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.0" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" />
@@ -210,6 +221,35 @@
       <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Favorites" order="3" sideWeight="0.50070924" side_tool="true" weight="0.1852349" />
+      <window_info id="Image Layers" order="4" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.4992908" visible="true" weight="0.18791947" />
+      <window_info id="Structure" order="6" sideWeight="0.50070924" side_tool="true" weight="0.1852349" />
+      <window_info anchor="bottom" id="Version Control" order="0" visible="true" weight="0.3248227" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.0" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="3" />
+      <window_info anchor="bottom" id="Find" order="4" />
+      <window_info anchor="bottom" id="Run" order="5" />
+      <window_info anchor="bottom" id="Database Changes" order="6" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="1" />
+      <window_info anchor="right" id="Palette&#9;" order="2" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="4" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -248,11 +288,51 @@
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/test.txt" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/stil.css" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.html" />
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/EndavaDay1/scratch.html">
+    <entry file="file://$PROJECT_DIR$/untitled/js/bootstrap.bundle.min.js.map">
+      <provider editor-type-id="sourcemapFileViewerProvider" />
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/EndavaDay1/endava_logo_jpg.png">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/EndavaDay1/scratch.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="30" column="43" selection-start-line="30" selection-start-column="43" selection-end-line="30" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/EndavaDay1/classie.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-561" />
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/EndavaDay1/cbpAnimatedHeader.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="14" selection-start-line="14" selection-end-line="15" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/untitled/untitled.iml">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/EndavaDay1/stil.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="76" lean-forward="true" selection-start-line="76" selection-end-line="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classie.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">

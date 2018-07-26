@@ -1,0 +1,80 @@
+#htmldiv
+{
+    background-color: #ff7f50;
+    text-align: center;
+}
+
+body
+{
+    background-color: beige;
+
+}
+.tab
+{
+    margin-top: 100px;
+}
+.navbar img
+{
+
+    float: left;
+
+
+}
+
+#changeText
+{
+    font-family: "Blackadder ITC";
+    color: darkgreen;
+    font-size: 30px;
+}
+
+.navbar
+{
+    padding-top: 20px;
+    padding-bottom:20px;
+    -webkit-transition: all 0.5s;
+    transition: all 0.5s;
+
+}
+
+.cbp-af-header-shrink
+{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    opacity: 0.9;
+
+
+}
+footer{    background-color: saddlebrown;
+            text-align: center;}
+header{    background-color: saddlebrown;
+    text-align: center;}
+#submitBtn {
+
+    background: aquamarine;
+
+    color: darkred;
+
+    border: 1px solid #eee;
+
+    border-radius: 10px;
+
+    text-shadow:none;
+
+}
+
+#submitBtn:hover {
+
+    background: darkred;
+
+    color: aquamarine;
+
+    border: 1px solid #eee;
+
+    border-radius: 19=0px;
+
+    box-shadow: 5px 5px 5px #eee;
+
+    text-shadow:none;
+
+}
